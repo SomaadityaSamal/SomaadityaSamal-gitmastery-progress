@@ -437,5 +437,14 @@
       "You are missing the 'development' branch!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787909666.077444,
+    "completed_at": 1787909668.95254,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
   }
 ]
