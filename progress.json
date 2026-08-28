@@ -428,5 +428,14 @@
       "Branch 'optimization-approach-1' still exists! Remember to delete it"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787909656.522944,
+    "completed_at": 1787909659.405966,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
   }
 ]
