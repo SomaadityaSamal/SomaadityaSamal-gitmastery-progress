@@ -410,5 +410,14 @@
       "The main branch does not contain both files 'mike.txt' and 'janice.txt'."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787909636.679789,
+    "completed_at": 1787909639.49484,
+    "comments": [
+      "Branch 'login' still exists! Remember to rename it to 'feature/login'"
+    ],
+    "status": "Incomplete"
   }
 ]
