@@ -401,5 +401,14 @@
       "The merge has not been undone properly."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787909619.039826,
+    "completed_at": 1787909622.019109,
+    "comments": [
+      "The main branch does not contain both files 'mike.txt' and 'janice.txt'."
+    ],
+    "status": "Incomplete"
   }
 ]
