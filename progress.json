@@ -455,5 +455,12 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787909912.04737,
+    "completed_at": 1787909913.414421,
+    "comments": [],
+    "status": "Completed"
   }
 ]
