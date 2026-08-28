@@ -264,5 +264,14 @@
       "Missing annotated tag \"v1.0\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787909166.988592,
+    "completed_at": 1787909170.024559,
+    "comments": [
+      "\"v1.0\" should point to the commit that updates March duty roster."
+    ],
+    "status": "Incomplete"
   }
 ]
