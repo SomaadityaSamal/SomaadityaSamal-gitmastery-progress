@@ -489,5 +489,14 @@
       "Great work comparing commits in git history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787909963.904913,
+    "completed_at": 1787909965.201103,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
   }
 ]
