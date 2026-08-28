@@ -355,5 +355,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787909568.352985,
+    "completed_at": 1787909571.313398,
+    "comments": [
+      "It seems like the last two commits for Jan 14 and Jan 15 are still present in the commit history."
+    ],
+    "status": "Incomplete"
   }
 ]
