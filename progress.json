@@ -419,5 +419,14 @@
       "Branch 'login' still exists! Remember to rename it to 'feature/login'"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1787909646.421533,
+    "completed_at": 1787909649.572083,
+    "comments": [
+      "Branch 'optimization-approach-1' still exists! Remember to delete it"
+    ],
+    "status": "Incomplete"
   }
 ]
